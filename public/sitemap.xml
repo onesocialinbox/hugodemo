@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://onesocialinbox.github.io/hugodemo/</loc>
+    <loc>http://localhost:1313/hugodemo/</loc>
     <priority>0</priority>
   </url>
   
