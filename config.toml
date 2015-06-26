@@ -1,6 +1,0 @@
-baseurl = "http://onesocialinbox.github.io/hugodemo"
-languageCode = "en-us"
-title = "Hugo Demo site"
-canonifyurls = true
-[params]
-  description = "This site is a hugo demo site"
